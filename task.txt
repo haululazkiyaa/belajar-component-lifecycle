@@ -1,0 +1,8 @@
+1. Setup react project pake vitejs
+2. Bikin child component sederhana aja namanya child. jsx
+3. Di child compnent ini ada lifecycle useEffect
+4. Di useEffect ini define empty array sebagai dependency
+5. Lakukan pemanggilan API di useEffect https://jsonplaceholder.typicode.com/
+6. pakai method GET
+7. pakai fetch function
+8. Datanya tampilkan di UI
