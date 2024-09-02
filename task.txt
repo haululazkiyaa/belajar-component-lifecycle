@@ -6,3 +6,20 @@
 6. pakai method GET
 7. pakai fetch function
 8. Datanya tampilkan di UI
+9. Buat pemanggilan API menggunakan Axios
+10. npm i axios
+11, ganti fetch dengan axios, lalu panggil method GET
+12. buat tombol, saat di klik, akan melakukan API post menggunakan Axios
+{
+    id: 101, 
+    title: 'foo', 
+    body: 'bar', 
+    userId: 1
+}
+
+13. Setelah di POST, tampilkan di layar
+<pre>
+{
+    JSON. stringify(data, null, 4)
+}
+</pre>
